@@ -2,8 +2,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     int x, solution;
 
     printf("Polynomial: 3x^5+2x^4-5x^3-x^2+7x-6 \nEnter a value for x:\n");
